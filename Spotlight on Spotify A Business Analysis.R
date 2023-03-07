@@ -1,9 +1,6 @@
 #------ Data Collection -------#
 
 #Setting directory, importing all the library reading csv file, checking summary, head and tail of the dataframe
-getwd()
-setwd("C:\\Users\\hardi\\Downloads")
-
 install.packages("ggplot")
 install.packages("gplots")
 
